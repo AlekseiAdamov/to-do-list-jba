@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.delete-btn {
+    background-color: transparent;
+    border-color: transparent;
+    position: absolute;
+    right: 0;
+    top: 5px;
+    color: red;
+}
+
+.done {
+    text-decoration: line-through;
+}
